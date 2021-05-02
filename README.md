@@ -2,15 +2,15 @@
 ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/798px-Kubernetes_logo.svg.png)
 
 
-## [✍️ Your Name]'s Kubernetes Journey
+## Dean's Kubernetes Journey
 
 ### Your Social
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your Twitter](https://twitter.com/saintdle)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/saintdle)
 
 ## Stepping out the door
 
-- [ ] ☸ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☸ 1 > [Building a docker container, push to Docker Hub and link to GitHub repo](Journey/001/Readme.md)
 - [ ] ☸ 2 > [](Journey/002/Readme.md)
 - [ ] ☸ 3 > [](Journey/003/Readme.md)
 - [ ] ☸ 4 > [](Journey/004/Readme.md)
