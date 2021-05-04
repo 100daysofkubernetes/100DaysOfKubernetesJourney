@@ -24,7 +24,9 @@ Today I just built the container I need with a number of tools I expect to use i
 - [My container I pushed](https://hub.docker.com/r/saintdle/aws-k8s-ci)
 - [My container configuration files](https://github.com/saintdle/aws-k8s-ci)
 
+- [Packaging CLI programs into Docker images to avoid dependency hell](https://andrewlock.net/packaging-cli-programs-into-docker-images-to-avoid-dependency-hell/)
 
+- [Getting started with Amazon Elastic Kubernetes Service (Amazon EKS)](https://vzilla.co.uk/vzilla-blog/getting-started-with-amazon-elastic-kubernetes-service-amazon-eks)
 ## Try yourself
 
 I wrote a bit of a [twitter thread here](https://twitter.com/saintdle/status/1388545101442560001?s=20)
