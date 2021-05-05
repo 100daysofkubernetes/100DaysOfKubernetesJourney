@@ -14,7 +14,7 @@
 - [ ] ☸ 2 > [Small bit of CKA study and just collecting useful links](Journey/002/Readme.md)
 - [ ] ☸ 3 > [More reading and planning for some edits to Pac-Man NodeJS app](Journey/003/Readme.md)
 - [ ] ☸ 4 > [KubeCon Europe - Cloud Native Data Management Day!](Journey/004/Readme.md)
-- [ ] ☸ 5 > [](Journey/005/Readme.md)
+- [ ] ☸ 5 > [KubeCon Europe - Day 1 and Using Visual Code with GitHub and getting verified commits to GitHub](Journey/005/Readme.md)
 - [ ] ☸ 6 > [](Journey/006/Readme.md)
 - [ ] ☸ 7 > [](Journey/007/Readme.md)
 - [ ] ☸ 8 > [](Journey/008/Readme.md)
