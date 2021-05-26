@@ -1,12 +1,12 @@
 # 100DaysOfKubernetesJourney
 ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/798px-Kubernetes_logo.svg.png)
 
-
 ## Dean's Kubernetes Journey
 
 ### Your Social
-- [✍️ Link to your Twitter](https://twitter.com/saintdle)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/saintdle)
+- [✍️ Find me on Twitter](https://twitter.com/saintdle)
+- [✍️ Find me on LinkedIn](https://www.linkedin.com/in/saintdle)
+- [✍️ Find me on Blogging](https://veducate.co.uk)
 
 ## Stepping out the door
 
@@ -24,12 +24,12 @@
 ## Walking down the road
 
 - [ ] ☸ 11 > [Runecast Analyzer for Kubernetes - KubeCon wrap up reading](Journey/011/Readme.md)
-- [ ] ☸ 12 > [](Journey/012/Readme.md)
-- [ ] ☸ 13 > [](Journey/013/Readme.md)
-- [ ] ☸ 14 > [](Journey/014/Readme.md)
+- [ ] ☸ 12 > [Deploying AWS EKS Clusters using VMware vRealize Automation](Journey/012/Readme.md)
+- [ ] ☸ 13 > [Working with TMC API and some container file fixes - YouTube videos and a podcast recording starring me!](Journey/013/Readme.md)
+- [ ] ☸ 14 > [Kubernetes Finalizers](Journey/014/Readme.md)
 - [ ] ☸ 15 > [](Journey/015/Readme.md)
 - [ ] ☸ 16 > [](Journey/016/Readme.md)
-- [ ] ☸ 17 > [](Journey/017/Readme.md)
+- [ ] ☸ 17 > [Something new using the same idea! Deploy Azure AKS clusters using vRA](Journey/017/Readme.md)
 - [ ] ☸ 18 > [](Journey/018/Readme.md)
 - [ ] ☸ 19 > [](Journey/019/Readme.md)
 - [ ] ☸ 20 > [](Journey/020/Readme.md)
