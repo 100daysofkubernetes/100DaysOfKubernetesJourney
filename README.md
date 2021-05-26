@@ -15,15 +15,15 @@
 - [ ] ☸ 3 > [More reading and planning for some edits to Pac-Man NodeJS app](Journey/003/Readme.md)
 - [ ] ☸ 4 > [KubeCon Europe - Cloud Native Data Management Day!](Journey/004/Readme.md)
 - [ ] ☸ 5 > [KubeCon Europe - Day 1 and Using Visual Code with GitHub and getting verified commits to GitHub](Journey/005/Readme.md)
-- [ ] ☸ 6 > [](Journey/006/Readme.md)
-- [ ] ☸ 7 > [](Journey/007/Readme.md)
-- [ ] ☸ 8 > [](Journey/008/Readme.md)
-- [ ] ☸ 9 > [](Journey/009/Readme.md)
-- [ ] ☸ 10 > [](Journey/010/Readme.md)
+- [ ] ☸ 6 > [KubeCon Europe Day 2 - Accessing Kubernetes platform data from within a pod](Journey/006/Readme.md)
+- [ ] ☸ 7 > [Understanding the VMware Tanzu terminology - General Kubernetes reading including Pod Security Policy](Journey/007/Readme.md)
+- [ ] ☸ 8 > [Getting started to build EKS Custers](Journey/008/Readme.md)
+- [ ] ☸ 9 > [Getting started with Tanzu Mission Control and beyond](Journey/009/Readme.md)
+- [ ] ☸ 10 > [Postman lost my work - Understanding JSON Path - General Kubernetes reading](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☸ 11 > [](Journey/011/Readme.md)
+- [ ] ☸ 11 > [Runecast Analyzer for Kubernetes - KubeCon wrap up reading](Journey/011/Readme.md)
 - [ ] ☸ 12 > [](Journey/012/Readme.md)
 - [ ] ☸ 13 > [](Journey/013/Readme.md)
 - [ ] ☸ 14 > [](Journey/014/Readme.md)

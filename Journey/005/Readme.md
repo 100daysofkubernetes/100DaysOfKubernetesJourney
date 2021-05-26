@@ -5,8 +5,17 @@ Today was the first day of KubeCon. And I also figured out how to ensure I have 
 
 ## Research
 
+A reference I keep coming back to > [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 [Cisco - Kubei : A Kubernetes Runtime Vulnerabilities Scanner](https://www.ciscotechblog.com/blog/kubernetes-runtime-vulnerabilities-scanner-launch/?ccid=cc002449)
 [Cisco - Mitre ATT&CK framework: What is it and does it work for K8s environment? ](https://www.ciscotechblog.com/blog/mitre-attck-framework-what-is-it-and-does-it-work-for-k8s-environment/?ccid=cc002449)
+
+From KubeCon Europe, I covered:
+- Keynote
+- Introduction and Deep Dive Into Containerd - Kohei Tokunaga & Akihiro Suda, NTT Corporation
+- Secrets Store CSI Driver: Keeping Secrets Secret - Anish Ramasekar, Microsoft & Tommy Murphy, Google
+- Lessons Learned from Operating ETCD - Pierre Zemb, OVHcloud
+- Writing for Developers: Take your Project Docs to the Next Level - Celeste Horgan, CNCF
+- Ask Me Anything with Joe Beda, Co-creator of Kubernetes (I actually missed this one)
 
 Issues with Visual Code pushing to my repo: 
 > > git push origin main:main
