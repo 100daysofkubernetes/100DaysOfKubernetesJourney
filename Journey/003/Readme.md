@@ -16,4 +16,4 @@ A namespace can be created by posting a YAML file to the Kubernetes API server o
 To delete namespcve or pods we can use below commands:
 * kubectl get pods -n app (get) &  kubectl delete pods -n app --all (delete)
 * kubectl delete all --all -n app (for deleting all resources in a namespace)
-* 
+
